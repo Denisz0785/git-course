@@ -10,3 +10,5 @@ var a,b float64
 
 var d int
 
+fmt.Println("Hello")
+
