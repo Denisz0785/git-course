@@ -8,7 +8,9 @@ type Products struct {
 
 var a,b float64
 
-var d int
+var debian int
 
-fmt.Println("Hello")
+
+
+
 
