@@ -5,3 +5,6 @@ type Products struct {
  b: int,
 
 }
+
+var a,b float64
+
